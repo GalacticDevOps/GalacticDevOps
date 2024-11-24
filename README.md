@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GalacticDevOps&show_icons=true&theme=ambient_gradient&line_height=27&timestamp=1718187940">
 </a>
 <a href="https://github.com/GalacticDevOps">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticDevOps">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticDevOps&show_icons=true&theme=transparent&langs_count=3">
 </a>
 
 ## ⚡ Tec Stacks
