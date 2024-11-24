@@ -20,18 +20,11 @@
 
 ## ⚡ Tec Stacks
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-
-![Operating System](https://img.shields.io/badge/-Operating%20System-7B72E9?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
 
 ![](https://profile-counter.glitch.me/{GalacticDevOps}/count.svg)
